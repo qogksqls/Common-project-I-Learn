@@ -40,4 +40,5 @@
 
 # 6주차(8/8 ~ 8/14)
 - 로그인 & 회원가입 : 파일받기, axios 공부, accessToken, refreshToken
+- CORS
 
