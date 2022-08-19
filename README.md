@@ -42,3 +42,6 @@
 - 로그인 & 회원가입 : 파일받기, axios 공부, accessToken, refreshToken
 - CORS
 
+# 7주차(8/15 ~ 8/19)
+- 전체적 디테일 보완
+- 8/19 최종 발표
